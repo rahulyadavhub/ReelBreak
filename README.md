@@ -42,10 +42,8 @@ Existing apps only *show* the data. Nobody actually *stops* you.
 | Pro Yearly | ₹699/year | Everything + analytics |
 
 ## Team
-Built by **RY Studio Lab**
+Built by ** TryBild**
 - Rahul Yadav — Backend Lead + Founder
-- Member 2 — Android Developer
-- Member 3 — iOS Developer
 - 6 AI Agents assisting development
 
 ## Build Timeline
@@ -53,9 +51,5 @@ Built by **RY Studio Lab**
 
 ## Links
 - 🌐 Website: [reelbreak.in](https://reelbreak.in)
-- 📸 Instagram: [@reelbreak.in](https://instagram.com/reelbreak.in)
-- 📧 Contact: trybild@gmail.com
+- 📧 Contact: hello@trybild.com
 - 🏢 Studio: [TryBild](https://trybild.com)
-
----
-*Also by RY Studio Lab: [MaalSaathi](https://github.com/rahulyadavhub) — WhatsApp AI fleet manager for Indian truck owners*
